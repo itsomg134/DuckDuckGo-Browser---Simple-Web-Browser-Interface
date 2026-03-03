@@ -1,6 +1,6 @@
 # DuckDuckGo-Browser---Simple-Web-Browser-Interface
 
-![Browser Preview](https://via.placeholder.com/800x400.png?text=DuckDuckGo+Browser+Interface)
+<img width="1897" height="900" alt="image" src="https://github.com/user-attachments/assets/74bef9a6-7cdc-4a46-933b-75dbd6903464" />
 
 A lightweight, privacy-focused web browser interface built with HTML, CSS, and JavaScript. This project creates a browser-like experience with DuckDuckGo integration, tab management, and a clean, modern interface.
 
