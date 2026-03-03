@@ -169,9 +169,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Om Gedam
 
-Project Link: [https://github.com/yourusername/duckduckgo-browser](https://github.com/yourusername/duckduckgo-browser)
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
 
 ## Known Issues
 
@@ -179,15 +187,3 @@ Project Link: [https://github.com/yourusername/duckduckgo-browser](https://githu
 - Navigation history limited to same-tab navigation
 - No HTTPS certificate validation display
 - Limited to single-window interface
-
-## Roadmap
-
-- [ ] Add browser settings panel
-- [ ] Implement download manager
-- [ ] Create bookmark manager
-- [ ] Add private browsing mode
-- [ ] Include developer tools
-- [ ] Support browser extensions
-- [ ] Add password manager
-- [ ] Implement sync across devices
-
